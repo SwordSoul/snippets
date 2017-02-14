@@ -33,3 +33,22 @@
       ###
 
     """
+'.source.js':
+  'Method documentation':
+    'prefix': 'mdoc'
+    'body': """
+      /*
+       * ${1:Method description}
+       * @param {${2:type}} ${3:name} - ${4:description}$7
+       * @return {${5:type}} ${6:description}
+      */
+
+    """
+  'Class documentation':
+    'prefix': 'cdoc'
+    'body': """
+      /*
+       * ${1:Class description}
+      */
+
+    """
