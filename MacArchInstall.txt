@@ -1,0 +1,15 @@
+1. Install arch, locales, yaourt
+2. Install wifi drivers
+3. Install connman, connmanctl
+4. Install zsh, rxvt-unicode, oh-my-zsh
+5. Install xmonad, dmenu2
+6. Add .Xmodmap, .Xresources, update 
+.xinitrc
+7. Install asla-utils, unmute sound, install asoundconf and 
+change default sound card
+8. Install terminal theme and fonts
+9. Install feh for wallpaper
+10. Install gscreenshot for screen capture
+11. Install and configure xmobar
+12. 
+
